@@ -8,3 +8,11 @@ p{
     color: bisque;
     padding: 20px;
 }
+h2{
+    height: 100px;
+    width: 100%;
+    background-color: blueviolet;
+}
+h2{
+    color: aliceblue;
+}
