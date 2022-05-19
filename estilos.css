@@ -16,3 +16,8 @@ h2{
 h2{
     color: aliceblue;
 }
+section{
+    height: 300px;
+    width: 100%;
+    background-color: cadetblue;
+}
