@@ -4,3 +4,7 @@ header{
 h1{
     text-align: center;
 }
+p{
+    color: bisque;
+    padding: 20px;
+}
